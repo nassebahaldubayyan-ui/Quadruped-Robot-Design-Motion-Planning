@@ -1,7 +1,7 @@
 # 🤖 Smart Quadruped Robot with Web & Voice Control
 
 <p align="center">
-  <img src="images/robot.png" alt="Smart Quadruped Robot" width="550"/>
+  <img src="exploded-view-thumbnail.png" alt="Smart Quadruped Robot" width="500"/>
 </p>
 
 <p align="center">
@@ -158,7 +158,7 @@ The robot assembly was modeled using **Onshape**.
 
 <p align="center">
   <a href="https://youtu.be/fQrN-KyECzs?si=QRc1Q38NxV-l24Wo">
-    <img src="exploded-view-thumbnail.png" alt="Exploded View Animation" width="700">
+    <img src="exploded-view-thumbnail.png" alt="Exploded View Animation" width="500">
   </a>
 </p>
 
