@@ -156,7 +156,15 @@ The robot assembly was modeled using **Onshape**.
 
 🎥 **Watch the exploded-view animation here:**
 
-[▶ View Exploded View Video](exploded-view.mp4)
+<p align="center">
+  <a href="https://youtu.be/fQrN-KyECzs?si=QRc1Q38NxV-l24Wo">
+    <img src="exploded-view-thumbnail.png" alt="Exploded View Animation" width="700">
+  </a>
+</p>
+
+<p align="center">
+Click the image above to watch the exploded-view animation on YouTube.
+</p>
 
 ---
 
